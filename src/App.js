@@ -37,13 +37,13 @@ function App() {
           <ul class="nav nav-tabs justify-content-center">
 
             <li class="nav-item">
-              <a class="nav-link active" href="#">Sillas de ruedas</a>
+              <a class="nav-link active" href="./">Sillas de ruedas</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Terapia en el hogar</a>
+              <a class="nav-link" href="./">Terapia en el hogar</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Movilidad</a>
+              <a class="nav-link" href="./">Movilidad</a>
             </li>
           </ul>
         </div>
@@ -85,7 +85,7 @@ function App() {
             <div class="nav-item dropdown">
               <a
                 class="btn btn-success dropdown-toggle"
-                href="#"
+                href="./"
                 id="navbarDropdown"
                 role="button"
                 data-bs-toggle="dropdown"
@@ -94,17 +94,17 @@ function App() {
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li>
-                  <a class="dropdown-item active" href="#">
+                  <a class="dropdown-item active" href="./">
                   ☏ Llamanos
                   </a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="#">
+                  <a class="dropdown-item" href="./">
                   ✆ Comunicate por whatsapp
                   </a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="#">
+                  <a class="dropdown-item" href="./">
                   💬 Chatea con nosotros
                   </a>
                 </li>

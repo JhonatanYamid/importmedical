@@ -52,14 +52,14 @@ const Footer = () => {
                     </div>
                 </form>
                 <span>Nuestros métodos de pago</span>
-                <img src={FooterImg} className="figure-img img-fluid" style= {{paddingTop: '20px'}} />
+                <img src={FooterImg} alt='img' className="figure-img img-fluid" style= {{paddingTop: '20px'}} />
 
             </div>
             <div className="col-12">
                 <hr />
             </div>
             <div className="col-12" align='center'>
-                <img src={FooterImg2} className="figure-img img-fluid" />
+                <img src={FooterImg2} alt='img' className="figure-img img-fluid" />
             </div>
         </div>
     );

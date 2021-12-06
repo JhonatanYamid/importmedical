@@ -14,7 +14,7 @@ const Section2 = (props) => {
         }}>
             <p class="display-3" style ={{color: '#eee', fontWeight: 'bold'}}>{props.titulo}
             </p>
-            <a class="btn btn-warning" href="#" role="button">Ver productos</a>
+            <a class="btn btn-warning" href="./" role="button">Ver productos</a>
 
         </div>
         

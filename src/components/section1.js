@@ -10,8 +10,7 @@ const Section1 = (props) => {
                     <div className="col-7 m-1 pt-3" style={{
                         backgroundImage: ` linear-gradient(
                             rgba(0, 0, 0, 0.5),
-                            rgba(0, 0, 0, 0.5)
-                          ), url(${picture})`,
+                            rgba(0, 0, 0, 0.5)), url(${picture})`,
                         backgroundRepeat: 'no-repeat',
                         backgroundSize: '100% auto',
                         backgroundPosition: 'center',
@@ -21,14 +20,13 @@ const Section1 = (props) => {
                     }}>
                         <p className="titulo">¿Porque elegirnos?
                         </p>
-                        <a className="btn btn-warning" href="#" role="button">Conoce más de nosotros</a>
+                        <a className="btn btn-warning" href="./" role="button">Conoce más de nosotros</a>
 
                     </div>
                     <div className="col-4 m-1" style={{
                         backgroundImage: ` linear-gradient(
                             rgba(0, 0, 0, 0.5),
-                            rgba(0, 0, 0, 0.5)
-                          ), url(${picture})`,
+                            rgba(0, 0, 0, 0.5)), url(${picture})`,
                         backgroundRepeat: 'no-repeat',
                         backgroundSize: '100% auto',
                         backgroundPosition: 'center',
@@ -47,8 +45,7 @@ const Section1 = (props) => {
                     <div className="col-4 m-1" style={{
                         backgroundImage: ` linear-gradient(
                             rgba(0, 0, 0, 0.5),
-                            rgba(0, 0, 0, 0.5)
-                          ), url(${picture})`,
+                            rgba(0, 0, 0, 0.5)), url(${picture})`,
                         backgroundRepeat: 'no-repeat',
                         backgroundSize: '100% auto',
                         backgroundPosition: 'center',
