@@ -1,6 +1,6 @@
 {
   "homepage": "http://trabajos_yoto.gitlab.io/importmedical/",
-  "name": "landing",
+  "name": "importmedical",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
