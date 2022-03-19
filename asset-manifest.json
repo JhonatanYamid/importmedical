@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/importmedical/static/css/main.89722963.chunk.css",
+    "main.js": "/importmedical/static/js/main.2102a51e.chunk.js",
+    "main.js.map": "/importmedical/static/js/main.2102a51e.chunk.js.map",
+    "runtime-main.js": "/importmedical/static/js/runtime-main.5f7feec7.js",
+    "runtime-main.js.map": "/importmedical/static/js/runtime-main.5f7feec7.js.map",
+    "static/js/2.b7d409de.chunk.js": "/importmedical/static/js/2.b7d409de.chunk.js",
+    "static/js/2.b7d409de.chunk.js.map": "/importmedical/static/js/2.b7d409de.chunk.js.map",
+    "static/js/3.2b7de4b9.chunk.js": "/importmedical/static/js/3.2b7de4b9.chunk.js",
+    "static/js/3.2b7de4b9.chunk.js.map": "/importmedical/static/js/3.2b7de4b9.chunk.js.map",
+    "index.html": "/importmedical/index.html",
+    "static/css/main.89722963.chunk.css.map": "/importmedical/static/css/main.89722963.chunk.css.map",
+    "static/js/2.b7d409de.chunk.js.LICENSE.txt": "/importmedical/static/js/2.b7d409de.chunk.js.LICENSE.txt",
+    "static/media/banner2.c5cfba22.jpg": "/importmedical/static/media/banner2.c5cfba22.jpg",
+    "static/media/doctor.a1d3a885.jpg": "/importmedical/static/media/doctor.a1d3a885.jpg",
+    "static/media/jumbotron.0db6efc5.jpg": "/importmedical/static/media/jumbotron.0db6efc5.jpg",
+    "static/media/logo.4c54145a.png": "/importmedical/static/media/logo.4c54145a.png",
+    "static/media/partners.60568c9d.png": "/importmedical/static/media/partners.60568c9d.png",
+    "static/media/pays.d321b58d.png": "/importmedical/static/media/pays.d321b58d.png",
+    "static/media/picture.f83c9f03.jpg": "/importmedical/static/media/picture.f83c9f03.jpg",
+    "static/media/silla.0b56600a.png": "/importmedical/static/media/silla.0b56600a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f7feec7.js",
+    "static/js/2.b7d409de.chunk.js",
+    "static/css/main.89722963.chunk.css",
+    "static/js/main.2102a51e.chunk.js"
+  ]
+}
